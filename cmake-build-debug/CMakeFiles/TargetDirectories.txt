@@ -1,0 +1,6 @@
+C:/Users/Fartash/Desktop/cpp/Alog/cmake-build-debug/CMakeFiles/Alog.dir
+C:/Users/Fartash/Desktop/cpp/Alog/cmake-build-debug/CMakeFiles/runProya.dir
+C:/Users/Fartash/Desktop/cpp/Alog/cmake-build-debug/CMakeFiles/Alog_2.dir
+C:/Users/Fartash/Desktop/cpp/Alog/cmake-build-debug/CMakeFiles/run.dir
+C:/Users/Fartash/Desktop/cpp/Alog/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Fartash/Desktop/cpp/Alog/cmake-build-debug/CMakeFiles/rebuild_cache.dir
